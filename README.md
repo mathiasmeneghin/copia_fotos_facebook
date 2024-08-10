@@ -1,0 +1,1 @@
+Script de automação em python para copiar as fotos do facebook de um perfil para uma pasta no computador. Somente colocar suas credenciais o camminho do perfil da página de fotos e a pasta no computador.
